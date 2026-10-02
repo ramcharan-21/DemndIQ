@@ -1,0 +1,81 @@
+sku,category,lead_time_days,supplier_id,product_name
+SKU_000,A,2,S6,Wireless Noise-Canceling Headphones
+SKU_001,C,5,S2,Smart Fitness Watch
+SKU_002,B,13,S1,4K Ultra HD Monitor
+SKU_003,A,11,S4,Mechanical Gaming Keyboard
+SKU_004,A,2,S1,Ergonomic Office Chair
+SKU_005,B,5,S5,Stainless Steel Water Bottle
+SKU_006,A,10,S2,Yoga Mat
+SKU_007,D,5,S4,Bluetooth Speaker
+SKU_008,C,14,S1,Portable Charger 20000mAh
+SKU_009,B,13,S4,LED Desk Lamp
+SKU_010,C,6,S2,Standing Desk Converter
+SKU_011,B,14,S3,Memory Foam Pillow
+SKU_012,A,3,S4,Ceramic Coffee Mug Set
+SKU_013,A,7,S3,Electric Toothbrush
+SKU_014,C,14,S1,Robot Vacuum Cleaner
+SKU_015,D,10,S1,Air Purifier
+SKU_016,D,3,S5,Digital Air Fryer
+SKU_017,C,12,S5,Smart Thermostat
+SKU_018,C,11,S2,Video Doorbell
+SKU_019,A,2,S6,Security Camera System
+SKU_020,B,14,S3,Mesh Wi-Fi System
+SKU_021,A,5,S1,External SSD 1TB
+SKU_022,D,6,S4,Laptop Stand
+SKU_023,C,4,S3,Webcam 1080p
+SKU_024,C,5,S6,USB-C Hub
+SKU_025,C,13,S6,Wireless Mouse
+SKU_026,A,11,S6,Gaming Mouse Pad
+SKU_027,B,10,S6,Blue Light Glasses
+SKU_028,B,4,S4,Travel Backpack
+SKU_029,D,6,S6,Carry-On Luggage
+SKU_030,B,12,S3,Camping Tent
+SKU_031,A,5,S1,Sleeping Bag
+SKU_032,C,8,S3,Portable Camping Stove
+SKU_033,A,5,S5,Led Flashlight
+SKU_034,C,5,S6,Multitool Pocket Knife
+SKU_035,D,8,S6,First Aid Kit
+SKU_036,D,4,S3,Resistance Bands Set
+SKU_037,B,5,S6,Dumbbell Set
+SKU_038,C,13,S5,Kettlebell
+SKU_039,D,11,S4,Foam Roller
+SKU_040,C,5,S2,Protein Powder Vanilla
+SKU_041,D,3,S1,Vitamin C Serum
+SKU_042,A,4,S6,Facial Moisturizer
+SKU_043,B,14,S6,Sunscreen SPF 50
+SKU_044,D,11,S1,Shampoo & Conditioner Set
+SKU_045,D,8,S5,Body Wash
+SKU_046,D,10,S3,Essential Oil Diffuser
+SKU_047,A,12,S6,Scented Candles
+SKU_048,A,12,S5,Throw Blanket
+SKU_049,C,14,S6,Area Rug
+SKU_050,C,3,S3,Blackout Curtains
+SKU_051,D,4,S4,Bed Sheets Queen
+SKU_052,A,13,S6,Duvet Cover Set
+SKU_053,C,10,S2,Bath Towel Set
+SKU_054,A,12,S3,Kitchen Knife Set
+SKU_055,B,4,S3,Non-Stick Cookware Set
+SKU_056,B,10,S5,Blender
+SKU_057,A,11,S3,Food Processor
+SKU_058,D,2,S1,Slow Cooker
+SKU_059,C,14,S3,Rice Cooker
+SKU_060,B,2,S2,Toaster Oven
+SKU_061,A,3,S6,Coffee Maker
+SKU_062,D,3,S5,Espresso Machine
+SKU_063,B,4,S6,Electric Kettle
+SKU_064,D,10,S2,Water Filter Pitcher
+SKU_065,C,10,S5,Glass Food Storage Containers
+SKU_066,D,5,S5,Silicone Baking Mats
+SKU_067,B,13,S3,Measuring Cups & Spoons
+SKU_068,D,12,S6,Vegetable Chopper
+SKU_069,C,9,S5,Salad Spinner
+SKU_070,D,3,S2,Cast Iron Skillet
+SKU_071,B,3,S3,Dutch Oven
+SKU_072,A,11,S5,Wine Glasses Set
+SKU_073,B,11,S2,Beer Mugs
+SKU_074,A,3,S6,Cocktail Shaker Set
+SKU_075,A,5,S1,Electric Wine Opener
+SKU_076,A,7,S1,Pet Water Fountain
+SKU_077,B,6,S6,Dog Bed
+SKU_078,D,5,S5,Cat Tree
+SKU_079,B,13,S5,Pet Grooming Kit

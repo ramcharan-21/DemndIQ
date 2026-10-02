@@ -1,0 +1,4 @@
+MAE: 2.02
+RMSE: 2.50
+wMAPE: 4.74%
+Forecast Accuracy: 95.26%
